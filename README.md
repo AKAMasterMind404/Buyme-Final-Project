@@ -11,7 +11,7 @@
 
 This project consists of:
 
-a. Two backend repositories
+a. Two backend repositories <br>
     - Buyme-Backend-notification-service <br>
     - Buyme-Backend-primary <br>
 b. One frontend repository
